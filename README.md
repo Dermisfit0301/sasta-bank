@@ -1,2 +1,2 @@
 # sasta-bank
-This is  a cheap working banking application that does simple deposit and withdrawal of users money,
+This has been just made for the sake of assignment and makes use of OOP concept of Inheritance. 
